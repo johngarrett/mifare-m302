@@ -1,3 +1,5 @@
+`pip3 install pyserial`
+
 just some random playground for an really cheap rfid card
 reader "M302" 
 
